@@ -12,7 +12,13 @@
 
 ## 安装指南
 
-把这个仓库或其中的 `SKILL.md` 提供给你的 AI，然后直接发送下面这段话：
+优先使用下面这条命令安装：
+
+```bash
+npx skill add https://github.com/CxHsin/0-start-skill.git
+```
+
+如果你的平台不支持这种安装方式，再把这个仓库或其中的 `SKILL.md` 提供给你的 AI，然后直接发送下面这段话：
 
 ```text
 请安装并遵循仓库里的 0-start skill。先读取 SKILL.md，理解它的目标、工作流和边界，然后在后续对话中按它的规则工作：先从 JD 风格信号和一手资料帮助我建立第一印象，再进行追问和解释，最后才给学习路径。
@@ -40,4 +46,3 @@
 ## License
 
 Licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) for details.
-
