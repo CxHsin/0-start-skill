@@ -37,3 +37,6 @@
 - 只有在真的会改变输出时才追问
 - 让新人先建立感觉，再谈路线
 
+## License
+
+Licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) for details.
