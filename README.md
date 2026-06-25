@@ -45,7 +45,6 @@
 ## 仓库内容
 
 - [SKILL.md](./SKILL.md): skill 的核心行为定义
-- [agents/openai.yaml](./agents/openai.yaml): UI 元数据
 - [docs/spark/2026-06-25-0-start-skill-design.md](./docs/spark/2026-06-25-0-start-skill-design.md): 设计过程与规格说明
 
 ## 维护原则
@@ -60,4 +59,3 @@
 ```text
 Use $0-start to help me understand an unfamiliar field before giving me a learning path.
 ```
-

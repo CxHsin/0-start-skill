@@ -1,4 +1,0 @@
-interface:
-  display_name: "0 Start"
-  short_description: "Build a first impression of a new field from JD signals"
-  default_prompt: "Use $0-start to help me understand an unfamiliar field before giving me a learning path."
